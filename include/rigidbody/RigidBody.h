@@ -3,6 +3,7 @@
 #include "collision/Geometry.h"
 #include <Eigen/Dense>
 #include <vector>
+#include <memory>
 
 class Contact;
 struct Mesh;
